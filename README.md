@@ -1,7 +1,6 @@
 # card_me
 
-A new Flutter project.
-
+A landing view with some info. Like a business card in an app!
 ## Getting Started
 
 This project is a starting point for a Flutter application.
